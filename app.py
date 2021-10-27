@@ -19,7 +19,7 @@ vocab_vectors = {w: model.get_sentence_vector(w) for w in vocab_list}
 @app.route('/', methods=['GET'])
 def home():
     return '''<h1>Machines Reading Maps - Entity Recommendation (Prototype) </h1>
-<a href="">link to document</a>'''
+<a href="https://github.com/machines-reading-maps/mrm-entity-api-demo">link to document</a>'''
 
 
 @app.route('/entities/all', methods=['GET'])
@@ -37,7 +37,7 @@ def api_id():
     comp_dict = compare_word(input, model, vocab_vectors)
     results = dict(sorted(comp_dict.items(), key=lambda item: item[1], reverse=True))
 
-    return jsonify({"candidates": list(results.keys())})
+    return jsonify({"input": input, "candidates": list(results.keys())})
 
 
 if __name__ == '__main__':
