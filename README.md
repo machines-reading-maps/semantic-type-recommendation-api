@@ -13,7 +13,7 @@ TBC
 - Return Values: all_entities
 
 
-### 2. Return Suggestions of Entities for a User Input
+### 2. Return Entity Search Suggestions for a User Input
 - Description: Return a list of entities sorted by similarity score for a (required) user input.
 - Request URL: http://127.0.0.1:5000/entities?input=
 - Request Value: a user input
