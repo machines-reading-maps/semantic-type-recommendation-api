@@ -3,7 +3,7 @@ A prototype API for entity recommendation
 
 ## Installation
 
-TBD
+TBC
 
 ## Querying the API
 ### 1. Return All Entities
