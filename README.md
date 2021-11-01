@@ -1,4 +1,4 @@
-# mrm-entity-api-demo
+# entity-recommendation-api
 A prototype API for entity recommendation
 
 ## Installation
