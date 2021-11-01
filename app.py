@@ -4,7 +4,7 @@ from flask import request, jsonify
 import fasttext
 import pandas as pd
 
-from utils import compare_word
+from utils import *
 
 app = flask.Flask(__name__)
 
@@ -35,9 +35,10 @@ def api_id():
         return "Error: No input field provided. Please specify user input."
 
     comp_dict = compare_word(input, model, vocab_vectors)
-    results = dict(sorted(comp_dict.items(), key=lambda item: item[1], reverse=True))
+    sorted_dict = dict(sorted(comp_dict.items(), key=lambda item: item[1], reverse=True))
+    candidates = find_elbow_point(sorted_dict)
 
-    return jsonify({"input": input, "candidates": list(results.keys())})
+    return jsonify({"input": input, "candidates": candidates})
 
 
 if __name__ == '__main__':
