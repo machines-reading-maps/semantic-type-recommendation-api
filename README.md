@@ -1,5 +1,4 @@
-# entity-recommendation-api
-A prototype API for entity recommendation
+# Entity Recommendation API
 
 ## Installation
 
