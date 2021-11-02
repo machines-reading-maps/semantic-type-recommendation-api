@@ -30,15 +30,24 @@ def api_all():
 @app.route('/entities', methods=['GET'])
 def api_id():
     if 'input' in request.args:
-        input = request.args['input']
+        user_input = request.args['input']
     else:
         return "Error: No input field provided. Please specify user input."
 
-    comp_dict = compare_word(input, model, vocab_vectors)
+    comp_dict = compare_word(user_input, model, vocab_vectors)
     sorted_dict = dict(sorted(comp_dict.items(), key=lambda item: item[1], reverse=True))
-    candidates = find_elbow_point(sorted_dict)
+    entities = find_elbow_point(sorted_dict)
 
-    return jsonify({"input": input, "candidates": candidates})
+    candidates = []
+
+    for i, entity in enumerate(entities):
+        result_dict = {}
+        result_dict['rank'] = i
+        result_dict['entity'] = entity
+        result_dict['uri'] = df.loc[df['label_space'] == entity, 'id'].item()
+        candidates.append(result_dict)
+
+    return jsonify({"input": user_input, "candidates": candidates})
 
 
 if __name__ == '__main__':
