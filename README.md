@@ -37,4 +37,4 @@ $ unzip wiki.en.zip
 - Return Values: input, cadidates
 - Example Request: 
   if user input was retrieved as "store",
-  http://127.0.0.1:5000/entities?input=store
+  http://127.0.0.1:8000/entities?input=store
