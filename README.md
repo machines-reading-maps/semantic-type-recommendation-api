@@ -1,5 +1,5 @@
 # Entity Recommendation API
-Entity Recommendation API is developed based on [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework.
+Entity recommendation API is developed based on [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework.
 
 ## Installation
 1. Clone this repository
