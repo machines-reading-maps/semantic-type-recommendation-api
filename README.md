@@ -7,7 +7,7 @@ Entity recommendation API is developed based on [Flask](https://flask.palletspro
 $ git clone https://github.com/machines-reading-maps/entity-recommendation-api.git
 ```
 
-> Configure port number in [Dockerfile](https://github.com/machines-reading-maps/entity-recommendation-api/blob/05cafad85257b0e5fd6ec8e7f3257fdd1128f2f3/Dockerfile#L16-L17) before installing docker image
+> Configure port number in [Dockerfile](https://github.com/machines-reading-maps/entity-recommendation-api/blob/05cafad85257b0e5fd6ec8e7f3257fdd1128f2f3/Dockerfile#L16-L17) and [app.py](https://github.com/machines-reading-maps/entity-recommendation-api/blob/c90619dddb3adb6cba1d410b0b3d6ccf7b84a387/app.py#L53) before installing docker image
 
 2. Build docker image
 ```
