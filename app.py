@@ -8,17 +8,16 @@ from utils import *
 
 app = flask.Flask(__name__)
 
-# load files
-df = pd.read_csv("data/schemaorg-all-https-types-Place-final.csv")
+df = pd.read_csv("data/entity_types.csv")
 model = fasttext.load_model('data/wiki.en.bin')
 
-vocab_list = df['label_space'].values.tolist()
+vocab_list = df['preprocessed_label'].values.tolist()
 vocab_vectors = {w: model.get_sentence_vector(w) for w in vocab_list}
 
 
 @app.route('/', methods=['GET'])
 def home():
-    return '''<h1>Machines Reading Maps - Entity Recommendation (Prototype) </h1>
+    return '''<h1>Machines Reading Maps - Entity Recommendation API</h1>
 <a href="https://github.com/machines-reading-maps/mrm-entity-api-demo">link to document</a>'''
 
 
