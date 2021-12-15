@@ -43,7 +43,7 @@ def api_id():
         result_dict = {}
         result_dict['rank'] = i
         result_dict['entity'] = entity
-        result_dict['uri'] = df.loc[df['label_space'] == entity, 'id'].item()
+        result_dict['uri'] = df.loc[df['preprocessed_label'] == entity, 'id'].values[0]
         candidates.append(result_dict)
 
     return jsonify({"input": user_input, "candidates": candidates})
