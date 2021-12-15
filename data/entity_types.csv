@@ -1,0 +1,241 @@
+id,label,subTypeOf,preprocessed_label
+https://schema.org/Accommodation,Accommodation,https://schema.org/Place,accommodation
+https://schema.org/AdministrativeArea,AdministrativeArea,https://schema.org/Place,administrative area
+https://schema.org/BuddhistTemple,BuddhistTemple,https://schema.org/PlaceOfWorship,buddhist temple
+https://schema.org/Church,Church,https://schema.org/PlaceOfWorship,church
+https://schema.org/CivicStructure,CivicStructure,https://schema.org/Place,civic structure
+https://schema.org/HinduTemple,HinduTemple,https://schema.org/PlaceOfWorship,hindu temple
+https://schema.org/Landform,Landform,https://schema.org/Place,landform
+https://schema.org/LandmarksOrHistoricalBuildings,LandmarksOrHistoricalBuildings,https://schema.org/Place,landmarks or historical buildings
+https://schema.org/LocalBusiness,LocalBusiness,"https://schema.org/Organization, https://schema.org/Place",local business
+https://schema.org/Mosque,Mosque,https://schema.org/PlaceOfWorship,mosque
+https://schema.org/Residence,Residence,https://schema.org/Place,residence
+https://schema.org/Synagogue,Synagogue,https://schema.org/PlaceOfWorship,synagogue
+https://schema.org/TouristAttraction,TouristAttraction,https://schema.org/Place,tourist attraction
+https://schema.org/TouristDestination,TouristDestination,https://schema.org/Place,tourist destination
+https://schema.org/Airport,Airport,https://schema.org/CivicStructure,airport
+https://schema.org/AnimalShelter,AnimalShelter,https://schema.org/LocalBusiness,animal shelter
+https://schema.org/Apartment,Apartment,https://schema.org/Accommodation,apartment
+https://schema.org/ApartmentComplex,ApartmentComplex,https://schema.org/Residence,apartment complex
+https://schema.org/Aquarium,Aquarium,https://schema.org/CivicStructure,aquarium
+https://schema.org/ArchiveOrganization,ArchiveOrganization,https://schema.org/LocalBusiness,archive organization
+https://schema.org/AutomotiveBusiness,AutomotiveBusiness,https://schema.org/LocalBusiness,automotive business
+https://schema.org/Beach,Beach,https://schema.org/CivicStructure,beach
+https://schema.org/BoatTerminal,BoatTerminal,https://schema.org/CivicStructure,boat terminal
+https://schema.org/BodyOfWater,BodyOfWater,https://schema.org/Landform,body of water
+https://schema.org/Bridge,Bridge,https://schema.org/CivicStructure,bridge
+https://schema.org/BusStation,BusStation,https://schema.org/CivicStructure,bus station
+https://schema.org/BusStop,BusStop,https://schema.org/CivicStructure,bus stop
+https://schema.org/Campground,Campground,"https://schema.org/CivicStructure, https://schema.org/LodgingBusiness",campground
+https://schema.org/CampingPitch,CampingPitch,https://schema.org/Accommodation,camping pitch
+https://schema.org/CatholicChurch,CatholicChurch,https://schema.org/Church,catholic church
+https://schema.org/Cemetery,Cemetery,https://schema.org/CivicStructure,cemetery
+https://schema.org/ChildCare,ChildCare,https://schema.org/LocalBusiness,child care
+https://schema.org/City,City,https://schema.org/AdministrativeArea,city
+https://schema.org/Continent,Continent,https://schema.org/Landform,continent
+https://schema.org/Country,Country,https://schema.org/AdministrativeArea,country
+https://schema.org/Crematorium,Crematorium,https://schema.org/CivicStructure,crematorium
+https://schema.org/Dentist,Dentist,"https://schema.org/LocalBusiness, https://schema.org/MedicalBusiness, https://schema.org/MedicalOrganization",dentist
+https://schema.org/DryCleaningOrLaundry,DryCleaningOrLaundry,https://schema.org/LocalBusiness,dry cleaning or laundry
+https://schema.org/EducationalOrganization,EducationalOrganization,"https://schema.org/CivicStructure, https://schema.org/Organization",educational organization
+https://schema.org/EmergencyService,EmergencyService,https://schema.org/LocalBusiness,emergency service
+https://schema.org/EmploymentAgency,EmploymentAgency,https://schema.org/LocalBusiness,employment agency
+https://schema.org/EntertainmentBusiness,EntertainmentBusiness,https://schema.org/LocalBusiness,entertainment business
+https://schema.org/EventVenue,EventVenue,https://schema.org/CivicStructure,event venue
+https://schema.org/FinancialService,FinancialService,https://schema.org/LocalBusiness,financial service
+https://schema.org/FireStation,FireStation,"https://schema.org/CivicStructure, https://schema.org/EmergencyService",fire station
+https://schema.org/FoodEstablishment,FoodEstablishment,https://schema.org/LocalBusiness,food establishment
+https://schema.org/GatedResidenceCommunity,GatedResidenceCommunity,https://schema.org/Residence,gated residence community
+https://schema.org/GovernmentBuilding,GovernmentBuilding,https://schema.org/CivicStructure,government building
+https://schema.org/GovernmentOffice,GovernmentOffice,https://schema.org/LocalBusiness,government office
+https://schema.org/HealthAndBeautyBusiness,HealthAndBeautyBusiness,https://schema.org/LocalBusiness,health and beauty business
+https://schema.org/HomeAndConstructionBusiness,HomeAndConstructionBusiness,https://schema.org/LocalBusiness,home and construction business
+https://schema.org/Hospital,Hospital,"https://schema.org/CivicStructure, https://schema.org/EmergencyService, https://schema.org/MedicalOrganization",hospital
+https://schema.org/House,House,https://schema.org/Accommodation,house
+https://schema.org/InternetCafe,InternetCafe,https://schema.org/LocalBusiness,internet cafe
+https://schema.org/LegalService,LegalService,https://schema.org/LocalBusiness,legal service
+https://schema.org/Library,Library,https://schema.org/LocalBusiness,library
+https://schema.org/LodgingBusiness,LodgingBusiness,https://schema.org/LocalBusiness,lodging business
+https://schema.org/MedicalBusiness,MedicalBusiness,https://schema.org/LocalBusiness,medical business
+https://schema.org/Mountain,Mountain,https://schema.org/Landform,mountain
+https://schema.org/MovieTheater,MovieTheater,"https://schema.org/CivicStructure, https://schema.org/EntertainmentBusiness",movie theater
+https://schema.org/Museum,Museum,https://schema.org/CivicStructure,museum
+https://schema.org/MusicVenue,MusicVenue,https://schema.org/CivicStructure,music venue
+https://schema.org/Park,Park,https://schema.org/CivicStructure,park
+https://schema.org/ParkingFacility,ParkingFacility,https://schema.org/CivicStructure,parking facility
+https://schema.org/PerformingArtsTheater,PerformingArtsTheater,https://schema.org/CivicStructure,performing arts theater
+https://schema.org/PlaceOfWorship,PlaceOfWorship,https://schema.org/CivicStructure,place of worship
+https://schema.org/Playground,Playground,https://schema.org/CivicStructure,playground
+https://schema.org/PoliceStation,PoliceStation,"https://schema.org/CivicStructure, https://schema.org/EmergencyService",police station
+https://schema.org/ProfessionalService,ProfessionalService,https://schema.org/LocalBusiness,professional service
+https://schema.org/PublicToilet,PublicToilet,https://schema.org/CivicStructure,public toilet
+https://schema.org/RVPark,RVPark,https://schema.org/CivicStructure,rv park
+https://schema.org/RadioStation,RadioStation,https://schema.org/LocalBusiness,radio station
+https://schema.org/RealEstateAgent,RealEstateAgent,https://schema.org/LocalBusiness,real estate agent
+https://schema.org/RecyclingCenter,RecyclingCenter,https://schema.org/LocalBusiness,recycling center
+https://schema.org/Room,Room,https://schema.org/Accommodation,room
+https://schema.org/SchoolDistrict,SchoolDistrict,https://schema.org/AdministrativeArea,school district
+https://schema.org/SelfStorage,SelfStorage,https://schema.org/LocalBusiness,self storage
+https://schema.org/ShoppingCenter,ShoppingCenter,https://schema.org/LocalBusiness,shopping center
+https://schema.org/SportsActivityLocation,SportsActivityLocation,https://schema.org/LocalBusiness,sports activity location
+https://schema.org/StadiumOrArena,StadiumOrArena,"https://schema.org/CivicStructure, https://schema.org/SportsActivityLocation",stadium or arena
+https://schema.org/State,State,https://schema.org/AdministrativeArea,state
+https://schema.org/Store,Store,https://schema.org/LocalBusiness,store
+https://schema.org/SubwayStation,SubwayStation,https://schema.org/CivicStructure,subway station
+https://schema.org/Suite,Suite,https://schema.org/Accommodation,suite
+https://schema.org/TaxiStand,TaxiStand,https://schema.org/CivicStructure,taxi stand
+https://schema.org/TelevisionStation,TelevisionStation,https://schema.org/LocalBusiness,television station
+https://schema.org/TouristInformationCenter,TouristInformationCenter,https://schema.org/LocalBusiness,tourist information center
+https://schema.org/TrainStation,TrainStation,https://schema.org/CivicStructure,train station
+https://schema.org/TravelAgency,TravelAgency,https://schema.org/LocalBusiness,travel agency
+https://schema.org/Volcano,Volcano,https://schema.org/Landform,volcano
+https://schema.org/Zoo,Zoo,https://schema.org/CivicStructure,zoo
+https://schema.org/AccountingService,AccountingService,https://schema.org/FinancialService,accounting service
+https://schema.org/AdultEntertainment,AdultEntertainment,https://schema.org/EntertainmentBusiness,adult entertainment
+https://schema.org/AmusementPark,AmusementPark,https://schema.org/EntertainmentBusiness,amusement park
+https://schema.org/ArtGallery,ArtGallery,https://schema.org/EntertainmentBusiness,art gallery
+https://schema.org/Attorney,Attorney,https://schema.org/LegalService,attorney
+https://schema.org/AutoBodyShop,AutoBodyShop,https://schema.org/AutomotiveBusiness,auto body shop
+https://schema.org/AutoDealer,AutoDealer,https://schema.org/AutomotiveBusiness,auto dealer
+https://schema.org/AutoPartsStore,AutoPartsStore,"https://schema.org/AutomotiveBusiness, https://schema.org/Store",auto parts store
+https://schema.org/AutoRental,AutoRental,https://schema.org/AutomotiveBusiness,auto rental
+https://schema.org/AutoRepair,AutoRepair,https://schema.org/AutomotiveBusiness,auto repair
+https://schema.org/AutoWash,AutoWash,https://schema.org/AutomotiveBusiness,auto wash
+https://schema.org/AutomatedTeller,AutomatedTeller,https://schema.org/FinancialService,automated teller
+https://schema.org/Bakery,Bakery,https://schema.org/FoodEstablishment,bakery
+https://schema.org/BankOrCreditUnion,BankOrCreditUnion,https://schema.org/FinancialService,bank or credit union
+https://schema.org/BarOrPub,BarOrPub,https://schema.org/FoodEstablishment,bar or pub
+https://schema.org/BeautySalon,BeautySalon,https://schema.org/HealthAndBeautyBusiness,beauty salon
+https://schema.org/BedAndBreakfast,BedAndBreakfast,https://schema.org/LodgingBusiness,bed and breakfast
+https://schema.org/BikeStore,BikeStore,https://schema.org/Store,bike store
+https://schema.org/BookStore,BookStore,https://schema.org/Store,book store
+https://schema.org/BowlingAlley,BowlingAlley,https://schema.org/SportsActivityLocation,bowling alley
+https://schema.org/Brewery,Brewery,https://schema.org/FoodEstablishment,brewery
+https://schema.org/BuddhistTemple,BuddhistTemple,https://schema.org/PlaceOfWorship,buddhist temple
+https://schema.org/CafeOrCoffeeShop,CafeOrCoffeeShop,https://schema.org/FoodEstablishment,cafe or coffee shop
+https://schema.org/Campground,Campground,"https://schema.org/CivicStructure, https://schema.org/LodgingBusiness",campground
+https://schema.org/Canal,Canal,https://schema.org/BodyOfWater,canal
+https://schema.org/Casino,Casino,https://schema.org/EntertainmentBusiness,casino
+https://schema.org/Church,Church,https://schema.org/PlaceOfWorship,church
+https://schema.org/CityHall,CityHall,https://schema.org/GovernmentBuilding,city hall
+https://schema.org/ClothingStore,ClothingStore,https://schema.org/Store,clothing store
+https://schema.org/CollegeOrUniversity,CollegeOrUniversity,https://schema.org/EducationalOrganization,college or university
+https://schema.org/ComedyClub,ComedyClub,https://schema.org/EntertainmentBusiness,comedy club
+https://schema.org/CommunityHealth,CommunityHealth,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",community health
+https://schema.org/ComputerStore,ComputerStore,https://schema.org/Store,computer store
+https://schema.org/ConvenienceStore,ConvenienceStore,https://schema.org/Store,convenience store
+https://schema.org/Courthouse,Courthouse,https://schema.org/GovernmentBuilding,courthouse
+https://schema.org/DaySpa,DaySpa,https://schema.org/HealthAndBeautyBusiness,day spa
+https://schema.org/DefenceEstablishment,DefenceEstablishment,https://schema.org/GovernmentBuilding,defence establishment
+https://schema.org/Dentist,Dentist,"https://schema.org/LocalBusiness, https://schema.org/MedicalBusiness, https://schema.org/MedicalOrganization",dentist
+https://schema.org/DepartmentStore,DepartmentStore,https://schema.org/Store,department store
+https://schema.org/Dermatology,Dermatology,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",dermatology
+https://schema.org/DietNutrition,DietNutrition,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",diet nutrition
+https://schema.org/Distillery,Distillery,https://schema.org/FoodEstablishment,distillery
+https://schema.org/Electrician,Electrician,https://schema.org/HomeAndConstructionBusiness,electrician
+https://schema.org/ElectronicsStore,ElectronicsStore,https://schema.org/Store,electronics store
+https://schema.org/ElementarySchool,ElementarySchool,https://schema.org/EducationalOrganization,elementary school
+https://schema.org/Embassy,Embassy,https://schema.org/GovernmentBuilding,embassy
+https://schema.org/Emergency,Emergency,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",emergency
+https://schema.org/ExerciseGym,ExerciseGym,https://schema.org/SportsActivityLocation,exercise gym
+https://schema.org/FastFoodRestaurant,FastFoodRestaurant,https://schema.org/FoodEstablishment,fast food restaurant
+https://schema.org/FireStation,FireStation,"https://schema.org/CivicStructure, https://schema.org/EmergencyService",fire station
+https://schema.org/Florist,Florist,https://schema.org/Store,florist
+https://schema.org/FurnitureStore,FurnitureStore,https://schema.org/Store,furniture store
+https://schema.org/GardenStore,GardenStore,https://schema.org/Store,garden store
+https://schema.org/GasStation,GasStation,https://schema.org/AutomotiveBusiness,gas station
+https://schema.org/GeneralContractor,GeneralContractor,https://schema.org/HomeAndConstructionBusiness,general contractor
+https://schema.org/Geriatric,Geriatric,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",geriatric
+https://schema.org/GolfCourse,GolfCourse,https://schema.org/SportsActivityLocation,golf course
+https://schema.org/GroceryStore,GroceryStore,https://schema.org/Store,grocery store
+https://schema.org/Gynecologic,Gynecologic,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",gynecologic
+https://schema.org/HVACBusiness,HVACBusiness,https://schema.org/HomeAndConstructionBusiness,hvac business
+https://schema.org/HairSalon,HairSalon,https://schema.org/HealthAndBeautyBusiness,hair salon
+https://schema.org/HardwareStore,HardwareStore,https://schema.org/Store,hardware store
+https://schema.org/HealthClub,HealthClub,"https://schema.org/HealthAndBeautyBusiness, https://schema.org/SportsActivityLocation",health club
+https://schema.org/HighSchool,HighSchool,https://schema.org/EducationalOrganization,high school
+https://schema.org/HinduTemple,HinduTemple,https://schema.org/PlaceOfWorship,hindu temple
+https://schema.org/HobbyShop,HobbyShop,https://schema.org/Store,hobby shop
+https://schema.org/HomeGoodsStore,HomeGoodsStore,https://schema.org/Store,home goods store
+https://schema.org/Hospital,Hospital,"https://schema.org/CivicStructure, https://schema.org/EmergencyService, https://schema.org/MedicalOrganization",hospital
+https://schema.org/Hostel,Hostel,https://schema.org/LodgingBusiness,hostel
+https://schema.org/Hotel,Hotel,https://schema.org/LodgingBusiness,hotel
+https://schema.org/HotelRoom,HotelRoom,https://schema.org/Room,hotel room
+https://schema.org/HousePainter,HousePainter,https://schema.org/HomeAndConstructionBusiness,house painter
+https://schema.org/IceCreamShop,IceCreamShop,https://schema.org/FoodEstablishment,ice cream shop
+https://schema.org/InsuranceAgency,InsuranceAgency,https://schema.org/FinancialService,insurance agency
+https://schema.org/JewelryStore,JewelryStore,https://schema.org/Store,jewelry store
+https://schema.org/LakeBodyOfWater,LakeBodyOfWater,https://schema.org/BodyOfWater,lake body of water
+https://schema.org/LegislativeBuilding,LegislativeBuilding,https://schema.org/GovernmentBuilding,legislative building
+https://schema.org/LiquorStore,LiquorStore,https://schema.org/Store,liquor store
+https://schema.org/Locksmith,Locksmith,https://schema.org/HomeAndConstructionBusiness,locksmith
+https://schema.org/MedicalClinic,MedicalClinic,"https://schema.org/MedicalBusiness, https://schema.org/MedicalOrganization",medical clinic
+https://schema.org/MeetingRoom,MeetingRoom,https://schema.org/Room,meeting room
+https://schema.org/MensClothingStore,MensClothingStore,https://schema.org/Store,mens clothing store
+https://schema.org/MiddleSchool,MiddleSchool,https://schema.org/EducationalOrganization,middle school
+https://schema.org/Midwifery,Midwifery,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",midwifery
+https://schema.org/MobilePhoneStore,MobilePhoneStore,https://schema.org/Store,mobile phone store
+https://schema.org/Mosque,Mosque,https://schema.org/PlaceOfWorship,mosque
+https://schema.org/Motel,Motel,https://schema.org/LodgingBusiness,motel
+https://schema.org/MotorcycleDealer,MotorcycleDealer,https://schema.org/AutomotiveBusiness,motorcycle dealer
+https://schema.org/MotorcycleRepair,MotorcycleRepair,https://schema.org/AutomotiveBusiness,motorcycle repair
+https://schema.org/MovieRentalStore,MovieRentalStore,https://schema.org/Store,movie rental store
+https://schema.org/MovieTheater,MovieTheater,"https://schema.org/CivicStructure, https://schema.org/EntertainmentBusiness",movie theater
+https://schema.org/MovingCompany,MovingCompany,https://schema.org/HomeAndConstructionBusiness,moving company
+https://schema.org/MusicStore,MusicStore,https://schema.org/Store,music store
+https://schema.org/NailSalon,NailSalon,https://schema.org/HealthAndBeautyBusiness,nail salon
+https://schema.org/NightClub,NightClub,https://schema.org/EntertainmentBusiness,night club
+https://schema.org/Notary,Notary,https://schema.org/LegalService,notary
+https://schema.org/Nursing,Nursing,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",nursing
+https://schema.org/Obstetric,Obstetric,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",obstetric
+https://schema.org/OceanBodyOfWater,OceanBodyOfWater,https://schema.org/BodyOfWater,ocean body of water
+https://schema.org/OfficeEquipmentStore,OfficeEquipmentStore,https://schema.org/Store,office equipment store
+https://schema.org/Oncologic,Oncologic,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",oncologic
+https://schema.org/Optician,Optician,https://schema.org/MedicalBusiness,optician
+https://schema.org/Optometric,Optometric,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",optometric
+https://schema.org/Otolaryngologic,Otolaryngologic,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",otolaryngologic
+https://schema.org/OutletStore,OutletStore,https://schema.org/Store,outlet store
+https://schema.org/PawnShop,PawnShop,https://schema.org/Store,pawn shop
+https://schema.org/Pediatric,Pediatric,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",pediatric
+https://schema.org/PetStore,PetStore,https://schema.org/Store,pet store
+https://schema.org/Pharmacy,Pharmacy,"https://schema.org/MedicalBusiness, https://schema.org/MedicalOrganization",pharmacy
+https://schema.org/Physician,Physician,"https://schema.org/MedicalBusiness, https://schema.org/MedicalOrganization",physician
+https://schema.org/Physiotherapy,Physiotherapy,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",physiotherapy
+https://schema.org/PlasticSurgery,PlasticSurgery,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",plastic surgery
+https://schema.org/Plumber,Plumber,https://schema.org/HomeAndConstructionBusiness,plumber
+https://schema.org/Podiatric,Podiatric,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",podiatric
+https://schema.org/PoliceStation,PoliceStation,"https://schema.org/CivicStructure, https://schema.org/EmergencyService",police station
+https://schema.org/Pond,Pond,https://schema.org/BodyOfWater,pond
+https://schema.org/PostOffice,PostOffice,https://schema.org/GovernmentOffice,post office
+https://schema.org/Preschool,Preschool,https://schema.org/EducationalOrganization,preschool
+https://schema.org/PrimaryCare,PrimaryCare,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",primary care
+https://schema.org/Psychiatric,Psychiatric,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",psychiatric
+https://schema.org/PublicHealth,PublicHealth,"https://schema.org/MedicalBusiness, https://schema.org/MedicalSpecialty",public health
+https://schema.org/PublicSwimmingPool,PublicSwimmingPool,https://schema.org/SportsActivityLocation,public swimming pool
+https://schema.org/Reservoir,Reservoir,https://schema.org/BodyOfWater,reservoir
+https://schema.org/Resort,Resort,https://schema.org/LodgingBusiness,resort
+https://schema.org/Restaurant,Restaurant,https://schema.org/FoodEstablishment,restaurant
+https://schema.org/RiverBodyOfWater,RiverBodyOfWater,https://schema.org/BodyOfWater,river body of water
+https://schema.org/RoofingContractor,RoofingContractor,https://schema.org/HomeAndConstructionBusiness,roofing contractor
+https://schema.org/School,School,https://schema.org/EducationalOrganization,school
+https://schema.org/SeaBodyOfWater,SeaBodyOfWater,https://schema.org/BodyOfWater,sea body of water
+https://schema.org/ShoeStore,ShoeStore,https://schema.org/Store,shoe store
+https://schema.org/SingleFamilyResidence,SingleFamilyResidence,https://schema.org/House,single family residence
+https://schema.org/SkiResort,SkiResort,"https://schema.org/Resort, https://schema.org/SportsActivityLocation",ski resort
+https://schema.org/SportingGoodsStore,SportingGoodsStore,https://schema.org/Store,sporting goods store
+https://schema.org/SportsClub,SportsClub,https://schema.org/SportsActivityLocation,sports club
+https://schema.org/StadiumOrArena,StadiumOrArena,"https://schema.org/CivicStructure, https://schema.org/SportsActivityLocation",stadium or arena
+https://schema.org/Synagogue,Synagogue,https://schema.org/PlaceOfWorship,synagogue
+https://schema.org/TattooParlor,TattooParlor,https://schema.org/HealthAndBeautyBusiness,tattoo parlor
+https://schema.org/TennisComplex,TennisComplex,https://schema.org/SportsActivityLocation,tennis complex
+https://schema.org/TireShop,TireShop,https://schema.org/Store,tire shop
+https://schema.org/ToyStore,ToyStore,https://schema.org/Store,toy store
+https://schema.org/Waterfall,Waterfall,https://schema.org/BodyOfWater,waterfall
+https://schema.org/WholesaleStore,WholesaleStore,https://schema.org/Store,wholesale store
+https://schema.org/Winery,Winery,https://schema.org/FoodEstablishment,winery
+https://schema.org/CatholicChurch,CatholicChurch,https://schema.org/Church,catholic church
+https://schema.org/CovidTestingFacility,CovidTestingFacility,https://schema.org/MedicalClinic,covid testing facility
+https://schema.org/FireStation,FireStation,"https://schema.org/CivicStructure, https://schema.org/EmergencyService",fire station
+https://schema.org/Hospital,Hospital,"https://schema.org/CivicStructure, https://schema.org/EmergencyService, https://schema.org/MedicalOrganization",hospital
+https://schema.org/PoliceStation,PoliceStation,"https://schema.org/CivicStructure, https://schema.org/EmergencyService",police station
+https://schema.org/SkiResort,SkiResort,"https://schema.org/Resort, https://schema.org/SportsActivityLocation",ski resort
